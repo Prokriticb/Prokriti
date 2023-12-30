@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://giggleostentatious.com/deqwawuv55?key=bea5f98a7816d0b1d0608991b288f32b
+					`https://giggleostentatious.com/deqwawuv55?key=bea5f98a7816d0b1d0608991b288f32`
 				}`,
 			},
 		};
